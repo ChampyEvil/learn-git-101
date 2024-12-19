@@ -1,4 +1,4 @@
-Example
+Example:
 
 Name: your name 
 Address: your province
