@@ -57,6 +57,9 @@ Birthday: 07/07/1997
 Name: Perch
 Address: North pole
 Birthday: 20/12/2002
+
+================================================
+
 Name: Job
 Address: Bangkok
 Birthday: 01/09/2000
@@ -90,5 +93,11 @@ BirthDay: 22/10/1996
 Name: Sholee
 Address: Bangkok
 Birthday: 17/10/2002
+
+================================================
+
+Name: Mei
+Address: New Zealand
+Birthday: 18/02/2000
 
 ================================================
