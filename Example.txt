@@ -52,6 +52,7 @@ Address: Chonburi
 Birthday: 07/07/1997
 
 ================================================
+
 Name: Perch
 Address: North pole
 Birthday: 20/12/2002
@@ -61,5 +62,11 @@ Birthday: 20/12/2002
 Name: Toto
 Address: BKK
 Birthday: 20/03/1993
+
+================================================
+
+Name: Yeast
+Address: Ubonratchathani
+Birthday: 12/09/2544
 
 ================================================
