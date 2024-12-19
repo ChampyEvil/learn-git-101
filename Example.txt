@@ -1,0 +1,13 @@
+Example
+
+Name: your name 
+Address: your province
+Birthday: your Birthday
+
+================================================
+
+Name: Champ
+Address: Nonthaburi
+Birthday: 21/04/1992
+
+================================================
