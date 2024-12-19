@@ -17,6 +17,12 @@ Address: Nonthaburi
 Birthday: 21/04/2535
 
 ================================================
+
+Name: Shining_star
+Address: heaven
+Birthday: 05/11/2001
+
+================================================
 Name: Pond
 Address: Nakhonphanom
 Birthday: 07/08/2004
