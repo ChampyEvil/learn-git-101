@@ -53,18 +53,24 @@ Birthday: 07/07/1997
 
 ================================================
 
+<<<<<<< HEAD
 Name: Perch
 Address: North pole
 Birthday: 20/12/2002
 
 ================================================
 
+<<<<<<< HEAD
 Name: Toto
 Address: BKK
 Birthday: 20/03/1993
 
 ================================================
 
+=======
+=======
+>>>>>>> fd8c92d (merge yeast information)
+>>>>>>> 02c94e6 (merge yeast information)
 Name: Yeast
 Address: Ubonratchathani
 Birthday: 12/09/2544
