@@ -130,15 +130,14 @@ Address: Bangkok
 Birthday: 08/02/1999
 
 ================================================
-<<<<<<< HEAD
 
 Name: Nopphon
 Address: Phathumthani
 Birthday: ?1/0?/1??7
-=======
+
+================================================
 Name: Sea
 Address: Phathumthani
 Birthday: 12/11/****
->>>>>>> 57941ea (Solve config)
 
 ================================================
