@@ -107,3 +107,9 @@ Address: Samutprakarn
 Birthday: 11/10/xxxx
 
 ================================================
+
+Name: Champ
+Address: Ratchadaphisek
+Birthday: 30/05/1994
+
+================================================
